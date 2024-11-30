@@ -1,8 +1,7 @@
 n=int(input("Nhập n: "))
 def chanle(n):
     if n%2==0:
-        a="chẵn"
+        return str("Chẵn")
     else:
-        a="lẻ"
-    return a
+        return str("Lẻ")
 print("số n là số : ",chanle(n))
