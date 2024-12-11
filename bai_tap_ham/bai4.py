@@ -9,4 +9,9 @@ def fibonaxi(n):
             print(s,end=" ")
             s1=s2
             s2=s
-print("Dãy số fibonaxi là:",fibonaxi(n))
+    
+    
+if n==0:
+        print("Không có kết quả")
+else:      
+    print("Dãy số fibonaxi là:",fibonaxi(n))

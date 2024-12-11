@@ -22,6 +22,6 @@ def phuong_trinh_bac_2(a,b,c):
         x2=(-b-math.sqrt(deta))/2*a
         print("Phương trình có hai nghiệm: x1 =",x1,"x2 =",x2)
 if a==0:
-   print( phuong_trinh_bac_1(b,c))
+    phuong_trinh_bac_1(b,c)
 if a!=0:
-    print(phuong_trinh_bac_2(a,b,c))
+    phuong_trinh_bac_2(a,b,c)
