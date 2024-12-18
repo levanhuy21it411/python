@@ -1,0 +1,315 @@
+Gộp lịch csv Subject,Start Date,Start Time,End Date,End Time,Description,Location
+HTML: Tổng quan và cấu trúc cơ bản,2024-12-17,19:00,2024-12-17,21:00,Học về các thẻ HTML cơ bản, cấu trúc tài liệu HTML,https://www.w3schools.com/html/
+HTML: Form và Input,2024-12-18,19:00,2024-12-18,21:00,Tìm hiểu cách tạo form, input và submit dữ liệu,https://www.w3schools.com/html/
+HTML: Thẻ đa phương tiện,2024-12-19,19:00,2024-12-19,21:00,Học cách thêm video, audio và hình ảnh vào website,https://www.w3schools.com/html/
+Thực hành HTML: Tạo CV online,2024-12-20,19:00,2024-12-20,21:00,Xây dựng CV cá nhân bằng HTML với các phần giới thiệu, kỹ năng, liên hệ,https://www.w3schools.com/html/
+CSS: Tổng quan và cú pháp cơ bản,2024-12-21,19:00,2024-12-21,21:00,Tìm hiểu CSS và cách áp dụng style cơ bản,https://www.w3schools.com/css/
+CSS: Flexbox và bố cục,2024-12-22,19:00,2024-12-22,21:00,Học cách sử dụng Flexbox để tạo bố cục linh hoạt,https://www.w3schools.com/css/css3_flexbox.asp
+Thực hành CSS: Thiết kế website tĩnh,2024-12-23,19:00,2024-12-23,21:00,Tạo bố cục đẹp mắt với Flexbox cho CV đã làm ở HTML,https://www.w3schools.com/css/
+CSS: Animation cơ bản,2024-12-24,19:00,2024-12-24,21:00,Học cách tạo hiệu ứng chuyển động trên website,https://www.w3schools.com/css/css3_animations.asp
+Thực hành CSS: Animation thực tế,2024-12-25,19:00,2024-12-25,21:00,Áp dụng animation cho giao diện trang chủ website cá nhân,https://www.w3schools.com/css/
+JavaScript: Tổng quan và cú pháp cơ bản,2024-12-26,19:00,2024-12-26,21:00,Học các cú pháp như biến, vòng lặp, điều kiện,https://www.w3schools.com/js/
+JavaScript: DOM và sự kiện,2024-12-27,19:00,2024-12-27,21:00,Thao tác với HTML qua DOM và xử lý sự kiện người dùng,https://www.w3schools.com/js/js_htmldom.asp
+JavaScript: Xây dựng tính năng cơ bản,2024-12-28,19:00,2024-12-28,21:00,Tạo hiệu ứng hiển thị/hide nội dung, tính toán cơ bản trên form,https://www.w3schools.com/js/
+Thực hành JavaScript: Ứng dụng To-Do List,2024-12-29,19:00,2024-12-29,21:00,Xây dựng ứng dụng quản lý công việc đơn giản,https://www.w3schools.com/js/
+React: Tổng quan và khởi động dự án,2025-01-02,19:00,2025-01-02,21:00,Học cách cài đặt và cấu hình React,https://reactjs.org/
+React: Component và Props,2025-01-03,19:00,2025-01-03,21:00,Học cách tạo và sử dụng component,https://reactjs.org/
+React: State và sự kiện,2025-01-04,19:00,2025-01-04,21:00,Tìm hiểu cách quản lý dữ liệu động với state,https://reactjs.org/
+Thực hành React: Ứng dụng quản lý danh bạ,2025-01-05,19:00,2025-01-05,21:00,Xây dựng ứng dụng quản lý danh bạ với React,https://reactjs.org/
+Node.js: Tổng quan và cài đặt,2025-01-06,19:00,2025-01-06,21:00,Học cách cài đặt và khởi chạy Node.js,https://nodejs.org/
+Node.js: Xây dựng API cơ bản,2025-01-07,19:00,2025-01-07,21:00,Tạo API với Express.js,https://expressjs.com/
+Thực hành Node.js: API cho ứng dụng quản lý danh bạ,2025-01-08,19:00,2025-01-08,21:00,Xây dựng API cho quản lý danh bạ đã làm ở React,https://nodejs.org/
+MongoDB: Tổng quan và thao tác cơ bản,2025-01-09,19:00,2025-01-09,21:00,Học cách kết nối, thêm, sửa, xóa dữ liệu,https://www.mongodb.com/
+Thực hành MongoDB: Quản lý dữ liệu danh bạ,2025-01-10,19:00,2025-01-10,21:00,Tích hợp MongoDB với API Node.js,https://www.mongodb.com/
+Fullstack: Kết nối Frontend và Backend,2025-01-11,19:00,2025-01-11,21:00,Học cách kết nối React với Node.js qua API,https://www.fullstackopen.com/
+Thực hành Fullstack: Ứng dụng quản lý danh bạ hoàn chỉnh,2025-01-12,19:00,2025-01-12,21:00,Hoàn thiện dự án fullstack với React, Node.js, MongoDB,https://www.fullstackopen.com/
+React Native: Xây dựng ứng dụng di động,2025-01-13,19:00,2025-01-13,21:00,Học cách sử dụng React Native để tạo ứng dụng,https://reactnative.dev/
+Thực hành React Native: Ứng dụng quản lý công việc,2025-01-14,19:00,2025-01-14,21:00,Xây dựng ứng dụng di động đơn giản với React Native,https://reactnative.dev/
+React Native: Tích hợp API,2025-01-15,19:00,2025-01-15,21:00,Học cách kết nối React Native với backend qua API,https://reactnative.dev/
+Thực hành React Native: Tích hợp API quản lý công việc,2025-01-16,19:00,2025-01-16,21:00,Kết nối ứng dụng React Native với API Node.js,https://reactnative.dev/
+React Native: Quản lý state với Redux,2025-01-17,19:00,2025-01-17,21:00,Học cách sử dụng Redux để quản lý dữ liệu,https://redux.js.org/
+Thực hành React Native: Ứng dụng với Redux,2025-01-18,19:00,2025-01-18,21:00,Xây dựng ứng dụng React Native sử dụng Redux,https://redux.js.org/
+Dự án thực hành: Ứng dụng lịch cá nhân,2025-01-20,19:00,2025-01-20,21:00,Thiết kế và xây dựng ứng dụng lịch cá nhân với React Native,https://reactnative.dev/
+Node.js: Quản lý file và bảo mật,2025-01-21,19:00,2025-01-21,21:00,Học cách quản lý file, upload và bảo mật API,https://nodejs.org/
+Thực hành Node.js: Hệ thống upload file,2025-01-22,19:00,2025-01-22,21:00,Xây dựng tính năng upload file trong API,https://nodejs.org/
+MongoDB: Cải thiện hiệu suất và mô hình dữ liệu,2025-01-23,19:00,2025-01-23,21:00,Học cách tối ưu hóa dữ liệu và truy vấn,https://www.mongodb.com/
+Thực hành MongoDB: Tối ưu dữ liệu dự án,2025-01-24,19:00,2025-01-24,21:00,Cải thiện hiệu suất dữ liệu của dự án fullstack,https://www.mongodb.com/
+Dự án lớn: Hệ thống quản lý khách hàng (CRM),2025-01-27,19:00,2025-02-10,21:00,Xây dựng hệ thống CRM với fullstack (React, Node.js, MongoDB),https://www.fullstackopen.com/
+Git: Quản lý mã nguồn nâng cao,2025-02-12,19:00,2025-02-12,21:00,Học cách sử dụng Git branching và làm việc nhóm,https://git-scm.com/
+Docker: Triển khai ứng dụng,2025-02-13,19:00,2025-02-13,21:00,Học cách container hóa ứng dụng bằng Docker,https://www.docker.com/
+Thực hành Docker: Container hóa CRM,2025-02-14,19:00,2025-02-14,21:00,Triển khai hệ thống CRM lên Docker,https://www.docker.com/
+Dự án triển khai: Website bán hàng,2025-02-17,19:00,2025-02-28,21:00,Xây dựng và triển khai website bán hàng sử dụng React và Node.js,https://www.fullstackopen.com/
+React Native: Tối ưu hiệu suất ứng dụng,2025-03-01,19:00,2025-03-01,21:00,Học cách tối ưu ứng dụng React Native,https://reactnative.dev/
+Thực hành React Native: Tối ưu hóa hiệu suất,2025-03-02,19:00,2025-03-02,21:00,Áp dụng tối ưu vào ứng dụng quản lý công việc,https://reactnative.dev/
+Dự án cuối khóa: Ứng dụng thương mại điện tử,2025-03-05,19:00,2025-03-31,21:00,Xây dựng ứng dụng thương mại điện tử đa nền tảng (web + app),https://reactjs.org/
+Node.js: Tối ưu hóa API,2025-04-01,19:00,2025-04-01,21:00,Học cách tối ưu hóa và bảo mật API trong Node.js,https://nodejs.org/
+Thực hành Node.js: Cải thiện hiệu suất API,2025-04-02,19:00,2025-04-02,21:00,Xây dựng API hiệu quả hơn với Node.js,https://nodejs.org/
+React: Quản lý form và validation,2025-04-05,19:00,2025-04-05,21:00,Học cách quản lý form và validation trong React,https://reactjs.org/
+Thực hành React: Quản lý form,2025-04-06,19:00,2025-04-06,21:00,Xây dựng ứng dụng với form và validation,https://reactjs.org/
+MongoDB: Cải thiện độ tin cậy và bảo mật,2025-04-08,19:00,2025-04-08,21:00,Học cách đảm bảo bảo mật và sao lưu dữ liệu trong MongoDB,https://www.mongodb.com/
+Thực hành MongoDB: Bảo mật và sao lưu,2025-04-09,19:00,2025-04-09,21:00,Triển khai bảo mật và sao lưu dữ liệu,https://www.mongodb.com/
+Git: Làm việc nhóm và quản lý xung đột,2025-04-12,19:00,2025-04-12,21:00,Học cách làm việc nhóm hiệu quả với Git,https://git-scm.com/
+Docker: Tối ưu hóa ứng dụng trong Docker,2025-04-13,19:00,2025-04-13,21:00,Học cách tối ưu hóa ứng dụng chạy trong Docker,https://www.docker.com/
+Dự án triển khai: Website bán hàng nâng cao,2025-04-15,19:00,2025-04-30,21:00,Xây dựng và triển khai website bán hàng phức tạp sử dụng React và Node.js,https://www.fullstackopen.com/
+Subject,Start Date,Start Time,End Date,End Time,Description,Location
+React Native: Quản lý dữ liệu với Firebase,2025-05-01,19:00,2025-05-01,21:00,Học cách tích hợp Firebase vào React Native,https://firebase.google.com/docs
+Thực hành React Native: Ứng dụng với Firebase,2025-05-02,19:00,2025-05-02,21:00,Xây dựng ứng dụng quản lý dữ liệu với Firebase,https://firebase.google.com/docs
+Dự án cuối khóa: Hệ thống quản lý doanh nghiệp,2025-05-05,19:00,2025-05-20,21:00,Xây dựng hệ thống quản lý doanh nghiệp với React, Node.js và MongoDB,https://www.fullstackopen.com/
+Node.js: Xử lý bất đồng bộ và Promises,2025-05-07,19:00,2025-05-07,21:00,Học cách xử lý bất đồng bộ trong Node.js với Promises và async/await,https://nodejs.org/
+Thực hành Node.js: Quản lý bất đồng bộ trong API,2025-05-08,19:00,2025-05-08,21:00,Áp dụng bất đồng bộ và Promises trong API với Node.js,https://nodejs.org/
+MongoDB: Quản lý dữ liệu quan hệ,2025-05-09,19:00,2025-05-09,21:00,Học cách sử dụng MongoDB cho các dữ liệu quan hệ,https://www.mongodb.com/
+Thực hành MongoDB: Xử lý dữ liệu quan hệ trong API,2025-05-10,19:00,2025-05-10,21:00,Xử lý dữ liệu quan hệ trong API Node.js với MongoDB,https://www.mongodb.com/
+React: Quản lý routing và navigation,2025-05-11,19:00,2025-05-11,21:00,Học cách sử dụng React Router để quản lý navigation,https://reactrouter.com/
+Thực hành React: Navigation cho ứng dụng,2025-05-12,19:00,2025-05-12,21:00,Tạo một ứng dụng React với React Router để quản lý các tuyến đường,https://reactrouter.com/
+Docker: Tối ưu hoá Docker cho môi trường sản xuất,2025-05-13,19:00,2025-05-13,21:00,Học cách tối ưu hóa Docker khi triển khai trong môi trường sản xuất,https://www.docker.com/
+Thực hành Docker: Triển khai Docker lên AWS,2025-05-14,19:00,2025-05-14,21:00,Xây dựng và triển khai ứng dụng Docker lên AWS,https://www.docker.com/
+Dự án triển khai: Ứng dụng bán hàng toàn diện,2025-05-15,19:00,2025-06-01,21:00,Xây dựng và triển khai ứng dụng bán hàng toàn diện sử dụng React, Node.js, MongoDB và Docker,https://www.fullstackopen.com/
+Node.js: Quản lý phiên người dùng và xác thực,2025-06-02,19:00,2025-06-02,21:00,Học cách quản lý phiên người dùng và xác thực trong Node.js,https://nodejs.org/
+Thực hành Node.js: Xác thực người dùng,2025-06-03,19:00,2025-06-03,21:00,Xây dựng tính năng xác thực và quản lý phiên người dùng trong API,https://nodejs.org/
+MongoDB: Quản lý dữ liệu phân tán,2025-06-04,19:00,2025-06-04,21:00,Học cách sử dụng MongoDB cho các hệ thống dữ liệu phân tán,https://www.mongodb.com/
+Thực hành MongoDB: Quản lý dữ liệu phân tán,2025-06-05,19:00,2025-06-05,21:00,Xử lý và tối ưu dữ liệu phân tán trong MongoDB,https://www.mongodb.com/
+React: Quản lý hiệu suất và tối ưu hóa,2025-06-06,19:00,2025-06-06,21:00,Học cách tối ưu hóa hiệu suất trong React,https://reactjs.org/
+Thực hành React: Tối ưu hiệu suất ứng dụng,2025-06-07,19:00,2025-06-07,21:00,Tối ưu hiệu suất cho ứng dụng React,https://reactjs.org/
+Docker: Tích hợp Docker với CI/CD,2025-06-08,19:00,2025-06-08,21:00,Học cách tích hợp Docker vào pipeline CI/CD,https://www.docker.com/
+Thực hành Docker: CI/CD với Docker,2025-06-09,19:00,2025-06-09,21:00,Tạo pipeline CI/CD cho ứng dụng Docker,https://www.docker.com/
+Dự án triển khai: Hệ thống quản lý học sinh,2025-06-10,19:00,2025-06-30,21:00,Xây dựng hệ thống quản lý học sinh sử dụng React, Node.js, MongoDB, Docker và CI/CD,https://www.fullstackopen.com/
+React Native: Quản lý dữ liệu thời gian thực với WebSocket,2025-07-01,19:00,2025-07-01,21:00,Học cách sử dụng WebSocket để quản lý dữ liệu thời gian thực trong React Native,https://reactnative.dev/
+Thực hành React Native: Ứng dụng chat với WebSocket,2025-07-02,19:00,2025-07-02,21:00,Xây dựng ứng dụng chat thời gian thực sử dụng WebSocket,https://reactnative.dev/
+Node.js: Quản lý dữ liệu lớn,2025-07-03,19:00,2025-07-03,21:00,Học cách xử lý và quản lý dữ liệu lớn trong Node.js,https://nodejs.org/
+Thực hành Node.js: Quản lý dữ liệu lớn,2025-07-04,19:00,2025-07-04,21:00,Xây dựng ứng dụng Node.js để quản lý và xử lý dữ liệu lớn,https://nodejs.org/
+MongoDB: Cải thiện khả năng mở rộng và bảo mật,2025-07-05,19:00,2025-07-05,21:00,Học cách cải thiện khả năng mở rộng và bảo mật trong MongoDB,https://www.mongodb.com/
+Thực hành MongoDB: Bảo mật và mở rộng,2025-07-06,19:00,2025-07-06,21:00,Áp dụng bảo mật và tối ưu khả năng mở rộng trong MongoDB,https://www.mongodb.com/
+React: Server-side rendering (SSR),2025-07-07,19:00,2025-07-07,21:00,Học cách triển khai server-side rendering trong React,https://reactjs.org/
+Thực hành React: SSR cho ứng dụng blog,2025-07-08,19:00,2025-07-08,21:00,Xây dựng ứng dụng blog với server-side rendering trong React,https://reactjs.org/
+Docker: Quản lý môi trường phát triển và sản xuất,2025-07-09,19:00,2025-07-09,21:00,Học cách quản lý môi trường phát triển và sản xuất với Docker,https://www.docker.com/
+Thực hành Docker: Triển khai môi trường Docker cho ứng dụng,2025-07-10,19:00,2025-07-10,21:00,Tạo và triển khai môi trường Docker cho ứng dụng,https://www.docker.com/
+Dự án cuối khóa: Ứng dụng quản lý công việc và thời gian,2025-07-11,19:00,2025-07-25,21:00,Xây dựng ứng dụng quản lý công việc và thời gian với React, Node.js, MongoDB, Docker, https://www.fullstackopen.com/
+Dự án cuối khóa: Ứng dụng quản lý công việc và thời gian (Tiếp tục),2025-07-12,19:00,2025-07-12,21:00,Tiếp tục xây dựng ứng dụng quản lý công việc và thời gian với React, Node.js, MongoDB, Docker,https://www.fullstackopen.com/
+Dự án cuối khóa: Kiểm thử và tối ưu hiệu suất ứng dụng,2025-07-13,19:00,2025-07-13,21:00,Kiểm thử và tối ưu hiệu suất cho ứng dụng quản lý công việc và thời gian,https://jestjs.io/
+Dự án cuối khóa: Bảo mật ứng dụng và bảo vệ dữ liệu,2025-07-14,19:00,2025-07-14,21:00,Học cách bảo mật ứng dụng và bảo vệ dữ liệu trong quá trình phát triển,https://expressjs.com/
+Dự án cuối khóa: Tích hợp API bên ngoài vào ứng dụng,2025-07-15,19:00,2025-07-15,21:00,Tích hợp các API bên ngoài như Google Calendar, Slack vào ứng dụng,https://www.google.com/intl/vi/calendar/
+Thực hành: Tích hợp hệ thống thông báo push,2025-07-16,19:00,2025-07-16,21:00,Học cách tích hợp thông báo push trong ứng dụng React Native,https://firebase.google.com/
+Thực hành: Triển khai ứng dụng lên sản phẩm,2025-07-17,19:00,2025-07-17,21:00,Học cách triển khai ứng dụng lên môi trường sản xuất và App Store/Play Store,https://reactnative.dev/docs/publishing-to-app-store
+Thực hành: Đánh giá và cải thiện UX/UI của ứng dụng,2025-07-18,19:00,2025-07-18,21:00,Xem xét và cải thiện trải nghiệm người dùng và giao diện ứng dụng,https://www.figma.com/
+Hoàn thiện dự án cuối khóa: Ứng dụng quản lý công việc và thời gian,2025-07-19,19:00,2025-07-19,21:00,Hội nhập toàn bộ kiến thức học được để hoàn thiện dự án cuối khóa,https://www.fullstackopen.com/
+Bảo vệ dự án cuối khóa: Thuyết trình và giải đáp,2025-07-20,19:00,2025-07-20,21:00,Thuyết trình và trả lời câu hỏi về dự án cuối khóa,https://www.fullstackopen.com/
+Thực hành: Thiết kế và phát triển API cho ứng dụng,2025-07-21,19:00,2025-07-21,21:00,Học cách thiết kế và phát triển API cho ứng dụng,https://expressjs.com/
+Thực hành: Cải thiện hiệu suất backend,2025-07-22,19:00,2025-07-22,21:00,Tối ưu hóa hiệu suất của backend, học cách sử dụng caching và tăng tốc API,https://redis.io/
+Thực hành: Triển khai và quản lý cơ sở dữ liệu trên cloud,2025-07-23,19:00,2025-07-23,21:00,Học cách triển khai và quản lý cơ sở dữ liệu trên dịch vụ cloud,https://cloud.google.com/
+Thực hành: Triển khai hệ thống CI/CD cho dự án,2025-07-24,19:00,2025-07-24,21:00,Thiết lập và triển khai hệ thống CI/CD để tự động hoá quá trình build và deploy,https://circleci.com/
+Dự án cuối khóa: Hỗ trợ và bảo trì ứng dụng sau khi triển khai,2025-07-25,19:00,2025-07-25,21:00,Học cách bảo trì và hỗ trợ ứng dụng sau khi triển khai sản phẩm ra thị trường,https://www.heroku.com/
+Dự án cuối khóa: Thu thập phản hồi người dùng và cải tiến sản phẩm,2025-07-26,19:00,2025-07-26,21:00,Học cách thu thập phản hồi người dùng và cải tiến ứng dụng,https://www.surveymonkey.com/
+Thực hành: Cập nhật và bảo mật hệ thống,2025-07-27,19:00,2025-07-27,21:00,Cập nhật và duy trì hệ thống bảo mật cho ứng dụng,https://owasp.org/
+Thực hành: Phân tích và cải thiện codebase,2025-07-28,19:00,2025-07-28,21:00,Học cách phân tích và cải thiện chất lượng mã nguồn,https://eslint.org/
+Kết thúc khóa học: Đánh giá và phản hồi,2025-07-29,19:00,2025-07-29,21:00,Đánh giá quá trình học, nhận phản hồi và hướng dẫn bước tiếp theo trong sự nghiệp phát triển phần mềm,https://www.linkedin.com/learning/
+Thực hành: Làm việc với các công cụ phân tích và báo cáo,2025-07-30,19:00,2025-07-30,21:00,Học cách sử dụng các công cụ phân tích và tạo báo cáo về hiệu suất hệ thống và hành vi người dùng,https://www.google.com/analytics/
+Thực hành: Tạo và triển khai các bản vá lỗi bảo mật,2025-07-31,19:00,2025-07-31,21:00,Thực hành việc tạo và triển khai các bản vá bảo mật để đảm bảo an toàn cho ứng dụng,https://www.acs.com/
+Thực hành: Hướng dẫn tạo các API RESTful hiệu quả,2025-08-01,19:00,2025-08-01,21:00,Thiết kế và phát triển API RESTful mạnh mẽ và dễ sử dụng cho ứng dụng,https://swagger.io/
+Thực hành: Tích hợp các dịch vụ bên ngoài vào ứng dụng,2025-08-02,19:00,2025-08-02,21:00,Học cách tích hợp các API của bên thứ ba vào ứng dụng của bạn,https://rapidapi.com/
+Dự án thực tế: Xây dựng ứng dụng quản lý dữ liệu,2025-08-03,19:00,2025-08-03,21:00,Xây dựng một ứng dụng backend quản lý dữ liệu từ đầu đến cuối, bao gồm API, cơ sở dữ liệu và bảo mật,https://www.mongodb.com/
+Thực hành: Tối ưu hóa mã nguồn cho hiệu suất cao,2025-08-04,19:00,2025-08-04,21:00,Chuyên sâu vào tối ưu hóa mã nguồn để ứng dụng vận hành nhanh và hiệu quả,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Performance
+Thực hành: Thực hiện kiểm thử bảo mật,2025-08-05,19:00,2025-08-05,21:00,Kiểm thử bảo mật ứng dụng bằng cách tìm kiếm các lỗ hổng và khắc phục chúng,https://www.kali.org/
+Thực hành: Triển khai ứng dụng lên môi trường sản xuất,2025-08-06,19:00,2025-08-06,21:00,Quá trình triển khai ứng dụng lên môi trường sản xuất, bao gồm cả cấu hình và tối ưu hệ thống,https://www.docker.com/
+Thực hành: Quản lý tài nguyên hệ thống và tối ưu chi phí,2025-08-07,19:00,2025-08-07,21:00,Học cách quản lý tài nguyên hệ thống và tối ưu chi phí vận hành,https://aws.amazon.com/
+Thực hành: Tạo báo cáo và trình bày kết quả dự án,2025-08-08,19:00,2025-08-08,21:00,Học cách tạo báo cáo tổng kết dự án và trình bày kết quả một cách chuyên nghiệp,https://www.canva.com/
+Dự án cuối khóa: Triển khai và bảo trì ứng dụng,2025-08-09,19:00,2025-08-09,21:00,Hoàn thiện và triển khai ứng dụng cuối cùng của bạn, bao gồm bảo trì và cải tiến liên tục,https://www.heroku.com/
+Dự án thực tế: Xây dựng hệ thống quản lý người dùng,2025-08-10,19:00,2025-08-10,21:00,Xây dựng hệ thống quản lý người dùng với các tính năng như đăng ký, đăng nhập, và phân quyền,https://www.firebase.com/
+Thực hành: Tạo và quản lý cơ sở dữ liệu quan hệ,2025-08-11,19:00,2025-08-11,21:00,Học cách thiết kế và tối ưu hóa cơ sở dữ liệu quan hệ cho ứng dụng backend,https://www.postgresql.org/
+Thực hành: Tối ưu hóa API cho hiệu suất,2025-08-12,19:00,2025-08-12,21:00,Áp dụng các phương pháp tối ưu hóa API như caching, pagination, và batching,https://redis.io/
+Thực hành: Kiểm thử chức năng và hiệu suất,2025-08-13,19:00,2025-08-13,21:00,Học cách kiểm thử ứng dụng về mặt chức năng và hiệu suất để đảm bảo chất lượng,https://www.jestjs.io/
+Thực hành: Phát triển ứng dụng đa nền tảng,2025-08-14,19:00,2025-08-14,21:00,Phát triển ứng dụng backend có thể chạy trên nhiều nền tảng khác nhau,https://www.reactjs.org/
+Thực hành: Tích hợp dịch vụ thanh toán,2025-08-15,19:00,2025-08-15,21:00,Tích hợp hệ thống thanh toán trực tuyến vào ứng dụng của bạn,https://www.stripe.com/
+Thực hành: Phát triển hệ thống báo cáo và thống kê,2025-08-16,19:00,2025-08-16,21:00,Phát triển hệ thống báo cáo và phân tích dữ liệu cho ứng dụng của bạn,https://www.metabase.com/
+Thực hành: Quản lý và bảo mật thông tin nhạy cảm,2025-08-17,19:00,2025-08-17,21:00,Học các phương pháp bảo mật thông tin nhạy cảm trong ứng dụng backend,https://www.hashicorp.com/
+Thực hành: Quản lý phiên bản và quy trình CI/CD,2025-08-18,19:00,2025-08-18,21:00,Học cách sử dụng Git và các công cụ CI/CD để tự động hóa quy trình phát triển và triển khai,https://www.jenkins.io/
+Thực hành: Quản lý và triển khai container,2025-08-19,19:00,2025-08-19,21:00,Học cách sử dụng Docker và Kubernetes để triển khai và quản lý ứng dụng trong container,https://www.docker.com/
+Dự án cuối khóa: Triển khai hệ thống thực tế,2025-08-20,19:00,2025-08-20,21:00,Xây dựng và triển khai hệ thống backend thực tế từ đầu đến cuối,https://www.heroku.com/
+Thực hành: Tối ưu hóa cơ sở dữ liệu và cấu trúc ứng dụng,2025-08-21,19:00,2025-08-21,21:00,Học cách tối ưu hóa cơ sở dữ liệu và cấu trúc ứng dụng backend để tăng hiệu suất,https://www.mongodb.com/
+Thực hành: Tạo API RESTful,2025-08-22,19:00,2025-08-22,21:00,Học cách tạo và triển khai API RESTful cho ứng dụng backend của bạn,https://expressjs.com/
+Thực hành: Tích hợp WebSocket cho giao tiếp thời gian thực,2025-08-23,19:00,2025-08-23,21:00,Học cách sử dụng WebSocket để tạo các ứng dụng giao tiếp thời gian thực,https://socket.io/
+Dự án thực tế: Xây dựng ứng dụng quản lý doanh nghiệp,2025-08-24,19:00,2025-08-24,21:00,Xây dựng hệ thống backend cho ứng dụng quản lý doanh nghiệp, bao gồm quản lý nhân viên, dự án và tài chính,https://www.django-rest-framework.org/
+Thực hành: Quản lý người dùng và phân quyền,2025-08-25,19:00,2025-08-25,21:00,Học cách xây dựng hệ thống phân quyền người dùng trong ứng dụng backend,https://www.passportjs.org/
+Thực hành: Xử lý tác vụ bất đồng bộ và queue,2025-08-26,19:00,2025-08-26,21:00,Học cách xử lý tác vụ bất đồng bộ và sử dụng queue trong backend,https://www.zeromq.org/
+Thực hành: Tạo hệ thống thông báo (Push Notification),2025-08-27,19:00,2025-08-27,21:00,Học cách tích hợp hệ thống thông báo Push Notification vào ứng dụng backend của bạn,https://firebase.google.com/docs/cloud-messaging
+Thực hành: Tối ưu hóa hiệu suất ứng dụng backend,2025-08-28,19:00,2025-08-28,21:00,Học cách tối ưu hóa hiệu suất của ứng dụng backend để giảm thiểu độ trễ và tải,https://www.newrelic.com/
+Dự án thực tế: Xây dựng hệ thống giám sát và báo cáo lỗi,2025-08-29,19:00,2025-08-29,21:00,Xây dựng hệ thống giám sát và báo cáo lỗi trong ứng dụng backend để theo dõi và khắc phục sự cố,https://www.sentry.io/
+Thực hành: Quản lý và bảo mật API,2025-08-30,19:00,2025-08-30,21:00,Học cách bảo mật API và quản lý quyền truy cập trong các ứng dụng backend,https://jwt.io/
+Thực hành: Quản lý cấu hình môi trường và deployment,2025-08-31,19:00,2025-08-31,21:00,Học cách quản lý cấu hình môi trường và triển khai ứng dụng backend vào môi trường sản xuất,https://www.docker.com/
+Dự án thực tế: Triển khai ứng dụng backend lên AWS,2025-09-01,19:00,2025-09-01,21:00,Học cách triển khai ứng dụng backend lên AWS EC2 và sử dụng RDS cho cơ sở dữ liệu,https://aws.amazon.com/
+Thực hành: Quản lý phiên bản và mã nguồn với Git,2025-09-02,19:00,2025-09-02,21:00,Học cách sử dụng Git để quản lý mã nguồn, phân nhánh và phối hợp làm việc nhóm,https://git-scm.com/
+Thực hành: Sử dụng CI/CD trong phát triển backend,2025-09-03,19:00,2025-09-03,21:00,Học cách thiết lập CI/CD để tự động hóa quá trình kiểm tra và triển khai ứng dụng backend,https://www.jenkins.io/
+Thực hành: Đảm bảo chất lượng mã nguồn với Unit Test,2025-09-04,19:00,2025-09-04,21:00,Học cách viết và triển khai Unit Test cho mã nguồn backend để đảm bảo tính đúng đắn của hệ thống,https://jestjs.io/
+Dự án thực tế: Xây dựng hệ thống thanh toán trực tuyến,2025-09-05,19:00,2025-09-05,21:00,Xây dựng hệ thống thanh toán trực tuyến cho ứng dụng, bao gồm tích hợp cổng thanh toán,https://stripe.com/docs
+Thực hành: Sử dụng GraphQL thay vì RESTful API,2025-09-06,19:00,2025-09-06,21:00,Học cách sử dụng GraphQL để thay thế cho RESTful API trong các ứng dụng backend,https://graphql.org/
+Thực hành: Đảm bảo tính bảo mật của hệ thống backend,2025-09-07,19:00,2025-09-07,21:00,Học cách bảo mật hệ thống backend để bảo vệ dữ liệu và chống lại các cuộc tấn công,https://owasp.org/
+Thực hành: Quản lý và phân tích logs,2025-09-08,19:00,2025-09-08,21:00,Học cách sử dụng các công cụ phân tích logs để theo dõi hoạt động của ứng dụng và phát hiện lỗi,https://www.elastic.co/what-is/elk-stack
+Dự án thực tế: Xây dựng hệ thống e-commerce,2025-09-09,19:00,2025-09-09,21:00,Xây dựng ứng dụng e-commerce từ backend, bao gồm quản lý sản phẩm, đơn hàng và thanh toán,https://www.shopify.com/
+Thực hành: Xây dựng hệ thống chat real-time với WebSocket,2025-09-10,19:00,2025-09-10,21:00,Học cách sử dụng WebSocket để xây dựng ứng dụng chat real-time trong backend,https://socket.io/
+Thực hành: Triển khai hệ thống microservices,2025-09-11,19:00,2025-09-11,21:00,Học cách chia hệ thống backend thành các microservices độc lập và triển khai chúng,https://microservices.io/
+Dự án thực tế: Tối ưu hiệu suất backend với caching,2025-09-12,19:00,2025-09-12,21:00,Học cách tối ưu hiệu suất ứng dụng backend bằng caching sử dụng Redis,https://redis.io/
+Thực hành: Quản lý cơ sở dữ liệu NoSQL,2025-09-13,19:00,2025-09-13,21:00,Học cách sử dụng cơ sở dữ liệu NoSQL (MongoDB) cho các ứng dụng backend,https://www.mongodb.com/
+Dự án thực tế: Xây dựng hệ thống blog với CMS backend,2025-09-14,19:00,2025-09-14,21:00,Xây dựng hệ thống blog với CMS backend cho phép quản lý bài viết và người dùng,https://strapi.io/
+Thực hành: Quản lý người dùng và phân quyền,2025-09-15,19:00,2025-09-15,21:00,Học cách triển khai hệ thống phân quyền người dùng trong ứng dụng backend,https://jwt.io/
+Thực hành: Quản lý dịch vụ email trong ứng dụng backend,2025-09-16,19:00,2025-09-16,21:00,Học cách gửi email trong ứng dụng backend với các dịch vụ như SendGrid,https://sendgrid.com/
+Thực hành: Xây dựng hệ thống RESTful API với Node.js,2025-09-17,19:00,2025-09-17,21:00,Học cách xây dựng hệ thống RESTful API từ đầu với Node.js và Express,https://expressjs.com/
+Dự án thực tế: Xây dựng ứng dụng quản lý công việc,2025-09-18,19:00,2025-09-18,21:00,Xây dựng ứng dụng quản lý công việc với các tính năng như phân công, theo dõi tiến độ,https://asana.com/
+Thực hành: Tối ưu hiệu suất API,2025-09-19,19:00,2025-09-19,21:00,Học cách tối ưu hóa hiệu suất của API để xử lý nhiều yêu cầu đồng thời,https://www.nginx.com/
+Thực hành: Quản lý nhật ký và giám sát hệ thống,2025-09-20,19:00,2025-09-20,21:00,Học cách sử dụng các công cụ quản lý nhật ký và giám sát hệ thống (Log Management, Monitoring),https://www.elkstack.org/
+Thực hành: Xây dựng hệ thống đăng ký và xác thực người dùng,2025-09-21,19:00,2025-09-21,21:00,Học cách xây dựng hệ thống đăng ký và xác thực người dùng với bảo mật,https://auth0.com/
+Dự án thực tế: Xây dựng hệ thống e-commerce backend,2025-09-22,19:00,2025-09-22,21:00,Xây dựng backend cho hệ thống e-commerce với các tính năng như giỏ hàng, thanh toán,https://www.paypal.com/
+Thực hành: Tích hợp API bên thứ ba,2025-09-23,19:00,2025-09-23,21:00,Học cách tích hợp các API bên thứ ba vào ứng dụng backend để mở rộng tính năng,https://rapidapi.com/
+Thực hành: Cấu hình và tối ưu cơ sở dữ liệu SQL,2025-09-24,19:00,2025-09-24,21:00,Học cách tối ưu cơ sở dữ liệu SQL, bao gồm indexing và query optimization,https://www.mysql.com/
+Dự án thực tế: Xây dựng API cho dịch vụ đặt vé,2025-09-25,19:00,2025-09-25,21:00,Xây dựng API cho một dịch vụ đặt vé với các tính năng như tìm kiếm, đặt vé, thanh toán,https://www.stripe.com/
+Thực hành: Triển khai ứng dụng backend lên cloud,2025-09-26,19:00,2025-09-26,21:00,Học cách triển khai ứng dụng backend lên cloud (AWS, Azure, GCP),https://aws.amazon.com/
+Dự án thực tế: Tối ưu API cho dịch vụ real-time,2025-09-27,19:00,2025-09-27,21:00,Tối ưu API cho dịch vụ real-time, giúp ứng dụng xử lý nhiều yêu cầu đồng thời,https://socket.io/
+Thực hành: Quản lý API với API Gateway,2025-09-28,19:00,2025-09-28,21:00,Học cách quản lý và bảo mật API bằng API Gateway,https://konghq.com/
+Dự án thực tế: Xây dựng hệ thống học trực tuyến,2025-09-29,19:00,2025-09-29,21:00,Xây dựng backend cho hệ thống học trực tuyến với các tính năng quản lý khóa học, học viên,https://www.zoom.us/
+Thực hành: Xây dựng hệ thống thanh toán trực tuyến,2025-09-30,19:00,2025-09-30,21:00,Học cách xây dựng hệ thống thanh toán trực tuyến với các phương thức thanh toán khác nhau,https://www.stripe.com/
+Thực hành: Tối ưu hóa hiệu suất ứng dụng backend,2025-10-01,19:00,2025-10-01,21:00,Học cách tối ưu hóa hiệu suất ứng dụng backend bằng cách giảm độ trễ và tăng tốc độ xử lý,https://www.nginx.com/
+Dự án thực tế: Xây dựng hệ thống phân tích dữ liệu lớn,2025-10-02,19:00,2025-10-02,21:00,Xây dựng backend cho hệ thống phân tích dữ liệu lớn và cung cấp báo cáo chi tiết,https://www.apache.org/
+Thực hành: Quản lý phiên bản với Git,2025-10-03,19:00,2025-10-03,21:00,Học cách sử dụng Git để quản lý phiên bản code hiệu quả và hợp tác nhóm,https://git-scm.com/
+Thực hành: Tích hợp hệ thống thanh toán với mobile app,2025-10-04,19:00,2025-10-04,21:00,Học cách tích hợp hệ thống thanh toán vào ứng dụng mobile để người dùng thanh toán trực tiếp,https://developer.apple.com/
+Dự án thực tế: Xây dựng dịch vụ API cho ứng dụng mobile,2025-10-05,19:00,2025-10-05,21:00,Xây dựng backend API cho ứng dụng mobile với các tính năng quản lý tài khoản người dùng,https://firebase.google.com/
+Thực hành: Quản lý lưu trữ dữ liệu trên cloud,2025-10-06,19:00,2025-10-06,21:00,Học cách sử dụng các dịch vụ lưu trữ dữ liệu trên cloud để lưu trữ và quản lý tệp tin,https://cloud.google.com/
+Dự án thực tế: Xây dựng hệ thống thông báo push,2025-10-07,19:00,2025-10-07,21:00,Xây dựng hệ thống thông báo push cho ứng dụng để gửi thông báo thời gian thực cho người dùng,https://onesignal.com/
+Thực hành: Bảo mật API với JWT và OAuth,2025-10-08,19:00,2025-10-08,21:00,Học cách bảo mật API với JWT và OAuth để đảm bảo chỉ những người dùng xác thực mới có quyền truy cập,https://jwt.io/
+Dự án thực tế: Xây dựng dịch vụ chat real-time,2025-10-09,19:00,2025-10-09,21:00,Xây dựng backend cho dịch vụ chat real-time với khả năng truyền tải tin nhắn tức thời,https://www.pusher.com/
+Thực hành: Quản lý tài nguyên và dịch vụ trên cloud,2025-10-10,19:00,2025-10-10,21:00,Học cách quản lý tài nguyên và dịch vụ trên các nền tảng cloud để tối ưu chi phí và hiệu quả,https://aws.amazon.com/
+Thực hành: Xây dựng hệ thống phân tích dữ liệu theo thời gian thực,2025-10-11,19:00,2025-10-11,21:00,Học cách xây dựng hệ thống phân tích dữ liệu theo thời gian thực sử dụng các công cụ như Kafka và Spark,https://kafka.apache.org/
+Dự án thực tế: Tích hợp API bên thứ ba vào ứng dụng,2025-10-12,19:00,2025-10-12,21:00,Xây dựng hệ thống tích hợp API bên thứ ba để cải thiện tính năng ứng dụng,https://www.twilio.com/
+Thực hành: Quản lý và tối ưu hóa cơ sở dữ liệu SQL,2025-10-13,19:00,2025-10-13,21:00,Học cách tối ưu hóa truy vấn SQL và quản lý cơ sở dữ liệu SQL để nâng cao hiệu suất,https://www.mysql.com/
+Dự án thực tế: Xây dựng hệ thống báo cáo cho doanh nghiệp,2025-10-14,19:00,2025-10-14,21:00,Xây dựng hệ thống báo cáo cho doanh nghiệp để phân tích và đánh giá hiệu quả kinh doanh,https://www.powerbi.com/
+Thực hành: Tối ưu hóa API với caching và load balancing,2025-10-15,19:00,2025-10-15,21:00,Học cách sử dụng caching và load balancing để tối ưu hóa hiệu suất của API,https://www.redis.io/
+Thực hành: Kiểm thử API với Postman,2025-10-16,19:00,2025-10-16,21:00,Học cách kiểm thử và debug API bằng công cụ Postman,https://www.postman.com/
+Dự án thực tế: Phát triển dịch vụ đăng ký và xác thực người dùng,2025-10-17,19:00,2025-10-17,21:00,Xây dựng hệ thống đăng ký và xác thực người dùng cho ứng dụng backend,https://auth0.com/
+Thực hành: Xây dựng hệ thống giám sát và logging,2025-10-18,19:00,2025-10-18,21:00,Học cách thiết lập hệ thống giám sát và logging để theo dõi và quản lý hiệu suất ứng dụng,https://www.datadoghq.com/
+Dự án thực tế: Tích hợp hệ thống thanh toán vào dịch vụ e-commerce,2025-10-19,19:00,2025-10-19,21:00,Xây dựng hệ thống thanh toán cho dịch vụ thương mại điện tử và tích hợp với các cổng thanh toán,https://www.paypal.com/
+Thực hành: Triển khai hệ thống trên nền tảng Kubernetes,2025-10-20,19:00,2025-10-20,21:00,Học cách triển khai và quản lý ứng dụng trên Kubernetes để đảm bảo tính mở rộng và ổn định,https://kubernetes.io/
+Dự án thực tế: Tạo hệ thống báo cáo thời gian thực cho dữ liệu lớn,2025-10-21,19:00,2025-10-21,21:00,Xây dựng hệ thống báo cáo thời gian thực cho dữ liệu lớn sử dụng Apache Spark,https://spark.apache.org/
+Thực hành: Quản lý và triển khai container Docker,2025-10-22,19:00,2025-10-22,21:00,Học cách sử dụng Docker để đóng gói và triển khai các ứng dụng,https://www.docker.com/
+Thực hành: Cài đặt và cấu hình hệ thống CI/CD,2025-10-23,19:00,2025-10-23,21:00,Học cách cài đặt và cấu hình hệ thống CI/CD để tự động hóa quy trình phát triển và triển khai ứng dụng,https://www.jenkins.io/
+Dự án thực tế: Xây dựng hệ thống API RESTful cho ứng dụng,2025-10-24,19:00,2025-10-24,21:00,Xây dựng hệ thống API RESTful để tương tác giữa frontend và backend,https://expressjs.com/
+Thực hành: Quản lý và triển khai hệ thống cơ sở dữ liệu NoSQL,2025-10-25,19:00,2025-10-25,21:00,Học cách sử dụng và triển khai cơ sở dữ liệu NoSQL cho ứng dụng,https://www.mongodb.com/
+Dự án thực tế: Tối ưu hóa hiệu suất ứng dụng web,2025-10-26,19:00,2025-10-26,21:00,Xây dựng các kỹ thuật tối ưu hóa hiệu suất web, bao gồm tối ưu hóa hình ảnh và giảm thiểu mã nguồn,https://www.google.com/web/tools/lighthouse/
+Thực hành: Triển khai hệ thống microservices,2025-10-27,19:00,2025-10-27,21:00,Học cách triển khai ứng dụng bằng kiến trúc microservices để dễ dàng mở rộng và bảo trì,https://microservices.io/
+Dự án thực tế: Xây dựng hệ thống chat trực tuyến,2025-10-28,19:00,2025-10-28,21:00,Xây dựng hệ thống chat trực tuyến cho ứng dụng với WebSocket,https://socket.io/
+Thực hành: Quản lý dịch vụ với AWS,2025-10-29,19:00,2025-10-29,21:00,Học cách quản lý và triển khai dịch vụ trên nền tảng AWS để tối ưu chi phí và hiệu suất,https://aws.amazon.com/
+Dự án thực tế: Tạo hệ thống giám sát ứng dụng,2025-10-30,19:00,2025-10-30,21:00,Xây dựng hệ thống giám sát hiệu suất của ứng dụng và cơ sở dữ liệu để phát hiện lỗi và tối ưu hóa,https://www.datadoghq.com/
+Thực hành: Triển khai hệ thống bảo mật với OAuth 2.0,2025-10-31,19:00,2025-10-31,21:00,Học cách triển khai hệ thống bảo mật cho ứng dụng web sử dụng OAuth 2.0,https://oauth.net/2/
+Dự án thực tế: Xây dựng ứng dụng web với GraphQL,2025-11-01,19:00,2025-11-01,21:00,Xây dựng ứng dụng web với GraphQL để tối ưu hóa việc truy xuất dữ liệu,https://graphql.org/
+Thực hành: Tích hợp với hệ thống thanh toán trực tuyến,2025-11-02,19:00,2025-11-02,21:00,Học cách tích hợp hệ thống thanh toán trực tuyến vào ứng dụng như PayPal, Stripe,https://www.paypal.com/
+Dự án thực tế: Xây dựng hệ thống phân tích dữ liệu với Python,2025-11-03,19:00,2025-11-03,21:00,Xây dựng hệ thống phân tích dữ liệu bằng Python và các thư viện như Pandas và NumPy,https://pandas.pydata.org/
+Thực hành: Triển khai ứng dụng với Cloud Foundry,2025-11-04,19:00,2025-11-04,21:00,Học cách triển khai ứng dụng trên nền tảng Cloud Foundry,https://www.cloudfoundry.org/
+Dự án thực tế: Tối ưu hóa cơ sở dữ liệu với indexing,2025-11-05,19:00,2025-11-05,21:00,Học cách tối ưu hóa hiệu suất cơ sở dữ liệu với các kỹ thuật indexing,https://www.sqlshack.com/
+Thực hành: Phát triển ứng dụng đa nền tảng với React Native,2025-11-06,19:00,2025-11-06,21:00,Học cách phát triển ứng dụng di động đa nền tảng bằng React Native,https://reactnative.dev/
+Dự án thực tế: Xây dựng hệ thống lưu trữ đám mây,2025-11-07,19:00,2025-11-07,21:00,Xây dựng hệ thống lưu trữ đám mây cho dữ liệu lớn với Amazon S3,https://aws.amazon.com/s3/
+Thực hành: Sử dụng Docker Compose để quản lý ứng dụng,2025-11-08,19:00,2025-11-08,21:00,Học cách sử dụng Docker Compose để cấu hình và quản lý các ứng dụng multi-container,https://docs.docker.com/compose/
+Dự án thực tế: Triển khai hệ thống machine learning,2025-11-09,19:00,2025-11-09,21:00,Xây dựng và triển khai hệ thống học máy với Python và scikit-learn,https://scikit-learn.org/
+Thực hành: Tạo API RESTful với Flask,2025-11-10,19:00,2025-11-10,21:00,Học cách xây dựng API RESTful đơn giản bằng Flask,https://flask.palletsprojects.com/
+Dự án thực tế: Tạo ứng dụng chatbot với AI,2025-11-11,19:00,2025-11-11,21:00,Xây dựng ứng dụng chatbot tích hợp AI để trả lời câu hỏi của người dùng,https://dialogflow.cloud.google.com/
+Thực hành: Sử dụng GitLab CI/CD để tự động hóa quy trình,2025-11-12,19:00,2025-11-12,21:00,Học cách sử dụng GitLab CI/CD để tự động hóa quy trình phát triển phần mềm,https://about.gitlab.com/stages-devops-lifecycle/ci-cd/
+Dự án thực tế: Phát triển ứng dụng với microservices,2025-11-13,19:00,2025-11-13,21:00,Học cách phát triển ứng dụng sử dụng kiến trúc microservices,https://microservices.io/
+Thực hành: Tối ưu hóa hiệu suất ứng dụng với caching,2025-11-14,19:00,2025-11-14,21:00,Học cách sử dụng caching để cải thiện hiệu suất của ứng dụng web,https://redis.io/
+Dự án thực tế: Tạo hệ thống tìm kiếm với Elasticsearch,2025-11-15,19:00,2025-11-15,21:00,Xây dựng hệ thống tìm kiếm và phân tích dữ liệu lớn với Elasticsearch,https://www.elastic.co/elasticsearch/
+Thực hành: Phát triển ứng dụng với serverless,2025-11-16,19:00,2025-11-16,21:00,Học cách phát triển và triển khai ứng dụng serverless trên AWS Lambda,https://aws.amazon.com/lambda/
+Dự án thực tế: Phát triển ứng dụng e-commerce,2025-11-17,19:00,2025-11-17,21:00,Xây dựng hệ thống e-commerce với đầy đủ tính năng từ thanh toán đến quản lý đơn hàng,https://www.shopify.com/
+Thực hành: Xây dựng ứng dụng với Flutter,2025-11-18,19:00,2025-11-18,21:00,Học cách phát triển ứng dụng di động với Flutter,https://flutter.dev/
+Dự án thực tế: Triển khai hệ thống phân tích dữ liệu lớn,2025-11-19,19:00,2025-11-19,21:00,Học cách triển khai hệ thống phân tích dữ liệu lớn sử dụng Hadoop và Spark,https://hadoop.apache.org/
+Thực hành: Xây dựng hệ thống báo cáo động với Power BI,2025-11-20,19:00,2025-11-20,21:00,Học cách xây dựng hệ thống báo cáo và dashboard động với Power BI,https://powerbi.microsoft.com/
+Dự án thực tế: Tạo ứng dụng xã hội với Django,2025-11-21,19:00,2025-11-21,21:00,Xây dựng một ứng dụng mạng xã hội cơ bản với Django,https://www.djangoproject.com/
+Thực hành: Tạo và triển khai ứng dụng trên Kubernetes,2025-11-22,19:00,2025-11-22,21:00,Học cách triển khai ứng dụng trên môi trường Kubernetes,https://kubernetes.io/
+Dự án thực tế: Phát triển ứng dụng VR/AR,2025-11-23,19:00,2025-11-23,21:00,Xây dựng ứng dụng VR hoặc AR với Unity,https://unity.com/
+Thực hành: Kiểm thử tự động với Selenium,2025-11-24,19:00,2025-11-24,21:00,Học cách sử dụng Selenium để kiểm thử tự động cho ứng dụng web,https://www.selenium.dev/
+Dự án thực tế: Xây dựng hệ thống thông minh với IoT,2025-11-25,19:00,2025-11-25,21:00,Xây dựng hệ thống IoT tích hợp với các thiết bị thông minh,https://www.ibm.com/internet-of-things
+Thực hành: Triển khai hệ thống an ninh mạng,2025-11-26,19:00,2025-11-26,21:00,Học cách triển khai hệ thống bảo mật và bảo vệ mạng,https://www.cisecurity.org/
+Dự án thực tế: Phát triển ứng dụng AI với TensorFlow,2025-11-27,19:00,2025-11-27,21:00,Xây dựng và triển khai mô hình học sâu với TensorFlow,https://www.tensorflow.org/
+Thực hành: Quản lý dự án phần mềm với Jira,2025-11-28,19:00,2025-11-28,21:00,Học cách quản lý dự án phần mềm và công việc nhóm với Jira,https://www.atlassian.com/software/jira
+Dự án thực tế: Triển khai hệ thống phân tích dữ liệu lớn,2025-11-19,19:00,2025-11-19,21:00,Học cách triển khai hệ thống phân tích dữ liệu lớn sử dụng Hadoop và Spark,https://hadoop.apache.org/
+Thực hành: Xây dựng hệ thống báo cáo động với Power BI,2025-11-20,19:00,2025-11-20,21:00,Học cách xây dựng hệ thống báo cáo và dashboard động với Power BI,https://powerbi.microsoft.com/
+Dự án thực tế: Tạo ứng dụng xã hội với Django,2025-11-21,19:00,2025-11-21,21:00,Xây dựng một ứng dụng mạng xã hội cơ bản với Django,https://www.djangoproject.com/
+Thực hành: Tạo và triển khai ứng dụng trên Kubernetes,2025-11-22,19:00,2025-11-22,21:00,Học cách triển khai ứng dụng trên môi trường Kubernetes,https://kubernetes.io/
+Dự án thực tế: Phát triển ứng dụng VR/AR,2025-11-23,19:00,2025-11-23,21:00,Xây dựng ứng dụng VR hoặc AR với Unity,https://unity.com/
+Thực hành: Kiểm thử tự động với Selenium,2025-11-24,19:00,2025-11-24,21:00,Học cách sử dụng Selenium để kiểm thử tự động cho ứng dụng web,https://www.selenium.dev/
+Dự án thực tế: Xây dựng hệ thống thông minh với IoT,2025-11-25,19:00,2025-11-25,21:00,Xây dựng hệ thống IoT tích hợp với các thiết bị thông minh,https://www.ibm.com/internet-of-things
+Thực hành: Triển khai hệ thống an ninh mạng,2025-11-26,19:00,2025-11-26,21:00,Học cách triển khai hệ thống bảo mật và bảo vệ mạng,https://www.cisecurity.org/
+Dự án thực tế: Phát triển ứng dụng AI với TensorFlow,2025-11-27,19:00,2025-11-27,21:00,Xây dựng và triển khai mô hình học sâu với TensorFlow,https://www.tensorflow.org/
+Thực hành: Quản lý dự án phần mềm với Jira,2025-11-28,19:00,2025-11-28,21:00,Học cách quản lý dự án phần mềm và công việc nhóm với Jira,https://www.atlassian.com/software/jira
+Dự án thực tế: Phát triển ứng dụng di động với React Native,2025-11-29,19:00,2025-11-29,21:00,Xây dựng ứng dụng di động đa nền tảng với React Native,https://reactnative.dev/
+Thực hành: Tối ưu hóa hiệu suất ứng dụng,2025-11-30,19:00,2025-11-30,21:00,Học cách tối ưu hóa hiệu suất ứng dụng web và di động,https://developers.google.com/web/fundamentals/performance
+Dự án thực tế: Tạo game 2D với Unity,2025-12-01,19:00,2025-12-01,21:00,Xây dựng game 2D đơn giản với Unity,https://unity.com/learn/tutorials
+Thực hành: Triển khai CI/CD với Jenkins,2025-12-02,19:00,2025-12-02,21:00,Học cách triển khai quá trình CI/CD với Jenkins,https://www.jenkins.io/
+Dự án thực tế: Phát triển hệ thống chatbot,2025-12-03,19:00,2025-12-03,21:00,Xây dựng và triển khai chatbot với các công cụ AI,https://www.dialogflow.com/
+Thực hành: Xử lý dữ liệu lớn với Apache Spark,2025-12-04,19:00,2025-12-04,21:00,Học cách xử lý dữ liệu lớn và phân tích dữ liệu thời gian thực với Apache Spark,https://spark.apache.org/
+Dự án thực tế: Phát triển web với Flask,2025-12-05,19:00,2025-12-05,21:00,Xây dựng ứng dụng web với Flask framework,https://flask.palletsprojects.com/
+Thực hành: Cải thiện bảo mật ứng dụng với OWASP,2025-12-06,19:00,2025-12-06,21:00,Học cách bảo vệ ứng dụng web khỏi các lỗ hổng bảo mật,https://owasp.org/
+Dự án thực tế: Xây dựng hệ thống microservices,2025-12-07,19:00,2025-12-07,21:00,Xây dựng hệ thống ứng dụng microservices sử dụng Docker và Kubernetes,https://microservices.io/
+Thực hành: Quản lý cơ sở dữ liệu với MongoDB,2025-12-08,19:00,2025-12-08,21:00,Học cách quản lý cơ sở dữ liệu NoSQL với MongoDB,https://www.mongodb.com/
+Dự án thực tế: Tạo website bán hàng với Shopify,2025-12-09,19:00,2025-12-09,21:00,Xây dựng website bán hàng trực tuyến với Shopify,https://www.shopify.com/
+Thực hành: Thiết kế API RESTful,2025-12-10,19:00,2025-12-10,21:00,Học cách thiết kế API RESTful cho ứng dụng web,https://restfulapi.net/
+Dự án thực tế: Xây dựng ứng dụng di động với Flutter,2025-12-11,19:00,2025-12-11,21:00,Xây dựng ứng dụng di động đa nền tảng với Flutter,https://flutter.dev/
+Thực hành: Phân tích và trực quan hóa dữ liệu với Tableau,2025-12-12,19:00,2025-12-12,21:00,Học cách sử dụng Tableau để phân tích và trực quan hóa dữ liệu,https://www.tableau.com/
+Dự án thực tế: Phát triển hệ thống quản lý học sinh,2025-12-13,19:00,2025-12-13,21:00,Xây dựng hệ thống quản lý học sinh với tính năng đăng ký, điểm số và quản lý lớp học,https://www.djangoproject.com/
+Thực hành: Tối ưu hóa mã nguồn với Code Review,2025-12-14,19:00,2025-12-14,21:00,Học cách tối ưu mã nguồn thông qua quy trình Code Review,https://smartbear.com/solutions/code-review/
+Dự án thực tế: Phát triển web với Ruby on Rails,2025-12-15,19:00,2025-12-15,21:00,Xây dựng ứng dụng web với Ruby on Rails,https://rubyonrails.org/
+Thực hành: Cải thiện trải nghiệm người dùng với A/B Testing,2025-12-16,19:00,2025-12-16,21:00,Học cách thực hiện A/B Testing để cải thiện trải nghiệm người dùng,https://www.optimizely.com/
+Dự án thực tế: Phát triển ứng dụng chat nhóm,2025-12-17,19:00,2025-12-17,21:00,Xây dựng ứng dụng chat nhóm với WebSocket và Node.js,https://socket.io/
+Thực hành: Cập nhật và bảo trì ứng dụng,2025-12-18,19:00,2025-12-18,21:00,Học cách bảo trì và cập nhật ứng dụng trong môi trường sản xuất,https://www.atlassian.com/software/jira
+Dự án thực tế: Tạo blog cá nhân với Gatsby,2025-12-19,19:00,2025-12-19,21:00,Xây dựng một blog cá nhân tĩnh với Gatsby,https://www.gatsbyjs.com/
+Thực hành: Sử dụng Docker trong phát triển ứng dụng,2025-12-20,19:00,2025-12-20,21:00,Học cách sử dụng Docker để triển khai và phát triển ứng dụng,https://www.docker.com/
+Dự án thực tế: Tạo website thương mại điện tử với WooCommerce,2025-12-21,19:00,2025-12-21,21:00,Xây dựng một website thương mại điện tử với WooCommerce,https://woocommerce.com/
+Thực hành: Xây dựng ứng dụng phản ứng nhanh với PWA,2025-12-22,19:00,2025-12-22,21:00,Học cách xây dựng Progressive Web Apps (PWA),https://developers.google.com/web/progressive-web-apps
+Dự án thực tế: Phát triển ứng dụng quản lý khách hàng CRM,2025-12-23,19:00,2025-12-23,21:00,Xây dựng ứng dụng quản lý khách hàng với các tính năng như lưu trữ thông tin và theo dõi lịch sử,https://www.salesforce.com/
+Thực hành: Tự động hóa quy trình phát triển với CI/CD,2025-12-24,19:00,2025-12-24,21:00,Học cách thiết lập và sử dụng CI/CD để tự động hóa quy trình phát triển phần mềm,https://www.jenkins.io/
+Dự án thực tế: Tạo ứng dụng trò chơi đơn giản với Phaser.js,2025-12-25,19:00,2025-12-25,21:00,Xây dựng một trò chơi đơn giản với Phaser.js,https://phaser.io/
+Thực hành: Kiểm thử ứng dụng với Selenium,2025-12-26,19:00,2025-12-26,21:00,Học cách sử dụng Selenium để kiểm thử ứng dụng web,https://www.selenium.dev/
+Dự án thực tế: Phát triển dịch vụ chia sẻ hình ảnh,2025-12-27,19:00,2025-12-27,21:00,Xây dựng ứng dụng chia sẻ hình ảnh với tính năng đăng tải và chia sẻ ảnh,https://www.imgur.com/
+Thực hành: Tăng tốc ứng dụng web với kỹ thuật Lazy Loading,2025-12-28,19:00,2025-12-28,21:00,Học cách sử dụng Lazy Loading để tối ưu hóa tốc độ tải trang web,https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading
+Dự án thực tế: Tạo ứng dụng chat với WebSocket,2025-12-29,19:00,2025-12-29,21:00,Xây dựng ứng dụng chat thời gian thực với WebSocket,https://socket.io/
+Thực hành: Tối ưu hóa hiệu suất với Web Workers,2025-12-30,19:00,2025-12-30,21:00,Học cách sử dụng Web Workers để cải thiện hiệu suất ứng dụng,https://developer.mozilla.org/en-US/docs/Web/API/Worker
+Dự án thực tế: Phát triển ứng dụng quản lý tác vụ với React,2025-12-31,19:00,2025-12-31,21:00,Xây dựng ứng dụng quản lý tác vụ với React,https://reactjs.org/
+Thực hành: Xây dựng API RESTful với Node.js,2026-01-01,19:00,2026-01-01,21:00,Học cách tạo API RESTful với Node.js và Express,https://expressjs.com/
+Dự án thực tế: Tạo trang web động với Next.js,2026-01-02,19:00,2026-01-02,21:00,Xây dựng một trang web động sử dụng Next.js,https://nextjs.org/
+Thực hành: Triển khai ứng dụng web với Heroku,2026-01-03,19:00,2026-01-03,21:00,Học cách triển khai ứng dụng web lên Heroku,https://www.heroku.com/
+Dự án thực tế: Phát triển ứng dụng quản lý dữ liệu lớn với MongoDB,2026-01-04,19:00,2026-01-04,21:00,Xây dựng ứng dụng quản lý dữ liệu lớn với MongoDB,https://www.mongodb.com/
+Thực hành: Cải thiện trải nghiệm người dùng với Animation,2026-01-05,19:00,2026-01-05,21:00,Học cách sử dụng animation để cải thiện trải nghiệm người dùng,https://www.smashingmagazine.com/2019/05/ux-animation-website/
+Dự án thực tế: Tạo hệ thống đăng ký và xác thực người dùng với Firebase,2026-01-06,19:00,2026-01-06,21:00,Xây dựng hệ thống đăng ký và xác thực người dùng với Firebase,https://firebase.google.com/
+Thực hành: Quản lý trạng thái ứng dụng với Redux,2026-01-07,19:00,2026-01-07,21:00,Học cách sử dụng Redux để quản lý trạng thái trong ứng dụng React,https://redux.js.org/
+Thực hành: Quản lý dự án với Git và GitHub,2026-01-08,19:00,2026-01-08,21:00,Học cách sử dụng Git và GitHub để quản lý mã nguồn và phối hợp với nhóm,https://git-scm.com/
+Dự án thực tế: Tạo ứng dụng quản lý công việc với Angular,2026-01-09,19:00,2026-01-09,21:00,Xây dựng ứng dụng quản lý công việc với Angular,https://angular.io/
+Thực hành: Sử dụng GraphQL để thay thế REST API,2026-01-10,19:00,2026-01-10,21:00,Học cách sử dụng GraphQL thay thế REST API trong ứng dụng,https://graphql.org/
+Dự án thực tế: Tạo trang web thương mại điện tử với Vue.js,2026-01-11,19:00,2026-01-11,21:00,Xây dựng trang web thương mại điện tử với Vue.js,https://vuejs.org/
+Thực hành: Tối ưu hóa SEO cho trang web,2026-01-12,19:00,2026-01-12,21:00,Học cách tối ưu hóa SEO cho trang web,https://moz.com/learn/seo/what-is-seo
+Dự án thực tế: Phát triển ứng dụng quản lý ngân sách với Flutter,2026-01-13,19:00,2026-01-13,21:00,Xây dựng ứng dụng quản lý ngân sách với Flutter,https://flutter.dev/
+Thực hành: Kiểm thử và bảo trì ứng dụng,2026-01-14,19:00,2026-01-14,21:00,Học cách kiểm thử và bảo trì ứng dụng web,https://jestjs.io/
+Dự án thực tế: Tạo ứng dụng ghi chú với Swift,2026-01-15,19:00,2026-01-15,21:00,Xây dựng ứng dụng ghi chú trên iOS với Swift,https://developer.apple.com/swift/
+Thực hành: Xử lý lỗi và debugging trong ứng dụng,2026-01-16,19:00,2026-01-16,21:00,Học cách xử lý lỗi và debugging trong ứng dụng,https://www.jetbrains.com/help/idea/debug-application.html
+Dự án thực tế: Tạo game đơn giản với Unity,2026-01-17,19:00,2026-01-17,21:00,Xây dựng game đơn giản sử dụng Unity,https://unity.com/Thực hành: Phát triển ứng dụng di động với React Native,2026-01-18,19:00,2026-01-18,21:00,Xây dựng ứng dụng di động sử dụng React Native,https://reactnative.dev/
+Dự án thực tế: Tạo trang web tin tức với Next.js,2026-01-19,19:00,2026-01-19,21:00,Xây dựng trang web tin tức với Next.js,https://nextjs.org/
+Thực hành: Tối ưu hóa hiệu suất trang web,2026-01-20,19:00,2026-01-20,21:00,Học cách tối ưu hóa hiệu suất trang web,https://web.dev/performance-scoring/
+Dự án thực tế: Tạo ứng dụng chat với Node.js và Socket.io,2026-01-21,19:00,2026-01-21,21:00,Xây dựng ứng dụng chat sử dụng Node.js và Socket.io,https://socket.io/
+Thực hành: Phát triển ứng dụng với kiến trúc microservices,2026-01-22,19:00,2026-01-22,21:00,Học về kiến trúc microservices trong phát triển phần mềm,https://microservices.io/
+Dự án thực tế: Tạo ứng dụng ghi chú đồng bộ với Firebase,2026-01-23,19:00,2026-01-23,21:00,Xây dựng ứng dụng ghi chú đồng bộ sử dụng Firebase,https://firebase.google.com/
+Thực hành: Quản lý dự án với Agile và Scrum,2026-01-24,19:00,2026-01-24,21:00,Học cách quản lý dự án phần mềm sử dụng phương pháp Agile và Scrum,https://www.scrum.org/
+Dự án thực tế: Tạo trang web blog cá nhân với Jekyll,2026-01-25,19:00,2026-01-25,21:00,Xây dựng trang web blog cá nhân với Jekyll,https://jekyllrb.com/
+Thực hành: Phát triển ứng dụng với Docker,2026-01-26,19:00,2026-01-26,21:00,Học cách sử dụng Docker trong phát triển ứng dụng,https://www.docker.com/
+Dự án thực tế: Tạo ứng dụng đơn giản với Kotlin,2026-01-27,19:00,2026-01-27,21:00,Xây dựng ứng dụng đơn giản với Kotlin,https://kotlinlang.org/
+Thực hành: Phát triển ứng dụng di động với Flutter,2026-01-28,19:00,2026-01-28,21:00,Xây dựng ứng dụng di động với Flutter,https://flutter.dev/
+Dự án thực tế: Tạo ứng dụng nhắn tin với React Native,2026-01-29,19:00,2026-01-29,21:00,Xây dựng ứng dụng nhắn tin với React Native,https://reactnative.dev/
+Thực hành: Tìm hiểu về CI/CD,2026-01-30,19:00,2026-01-30,21:00,Học về Continuous Integration và Continuous Deployment,https://www.atlassian.com/continuous-delivery/ci-vs-ci
+Dự án thực tế: Xây dựng ứng dụng web eCommerce với Vue.js,2026-01-31,19:00,2026-01-31,21:00,Xây dựng ứng dụng web eCommerce với Vue.js,https://vuejs.org/
+Thực hành: Tìm hiểu về GraphQL,2026-02-01,19:00,2026-02-01,21:00,Học về GraphQL và cách sử dụng nó,https://graphql.org/
+Dự án thực tế: Tạo API RESTful với Express.js,2026-02-02,19:00,2026-02-02,21:00,Xây dựng API RESTful với Express.js,https://expressjs.com/
+Thực hành: Làm việc với WebSocket,2026-02-03,19:00,2026-02-03,21:00,Học cách sử dụng WebSocket trong phát triển ứng dụng web,https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+Dự án thực tế: Tạo ứng dụng lịch sử tìm kiếm với Elasticsearch,2026-02-04,19:00,2026-02-04,21:00,Xây dựng ứng dụng tìm kiếm với Elasticsearch,https://www.elastic.co/
+Thực hành: Học về Docker Compose,2026-02-05,19:00,2026-02-05,21:00,Học cách sử dụng Docker Compose để quản lý các container,https://docs.docker.com/compose/
+Dự án thực tế: Tạo trang web portfolio cá nhân,2026-02-06,19:00,2026-02-06,21:00,Xây dựng trang web portfolio cá nhân,https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Creating_a_website
+Thực hành: Tìm hiểu về Kubernetes,2026-02-07,19:00,2026-02-07,21:00,Học về Kubernetes và cách triển khai ứng dụng,https://kubernetes.io/
+Dự án thực tế: Tạo ứng dụng quản lý công việc với React,2026-02-08,19:00,2026-02-08,21:00,Xây dựng ứng dụng quản lý công việc với React,https://reactjs.org/
+Thực hành: Tìm hiểu về Microservices,2026-02-09,19:00,2026-02-09,21:00,Học về kiến trúc Microservices và cách triển khai,https://microservices.io/
+Dự án thực tế: Xây dựng hệ thống blog với Next.js,2026-02-10,19:00,2026-02-10,21:00,Xây dựng hệ thống blog với Next.js,https://nextjs.org/
+Thực hành: Học về serverless architecture,2026-02-11,19:00,2026-02-11,21:00,Tìm hiểu về serverless và cách triển khai với AWS Lambda,https://aws.amazon.com/lambda/
+Dự án thực tế: Tạo ứng dụng phân tích dữ liệu với Python,2026-02-12,19:00,2026-02-12,21:00,Xây dựng ứng dụng phân tích dữ liệu với Python và Pandas,https://pandas.pydata.org/
+Thực hành: Tìm hiểu về OAuth2 và bảo mật ứng dụng,2026-02-13,19:00,2026-02-13,21:00,Học về OAuth2 và cách bảo mật ứng dụng web,https://oauth.net/2/
+Dự án thực tế: Tạo ứng dụng chatbot với Node.js,2026-02-14,19:00,2026-02-14,21:00,Xây dựng ứng dụng chatbot với Node.js,https://nodejs.org/
+Thực hành: Học về Progressive Web Apps (PWA),2026-02-15,19:00,2026-02-15,21:00,Tìm hiểu về Progressive Web Apps và cách phát triển,https://web.dev/progressive-web-apps/
+Dự án thực tế: Tạo ứng dụng quản lý tài chính cá nhân,2026-02-16,19:00,2026-02-16,21:00,Xây dựng ứng dụng quản lý tài chính cá nhân,https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks
