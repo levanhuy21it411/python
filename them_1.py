@@ -37,7 +37,8 @@ def he_16(a):
             list.append(du)
         a=a//16
     for i in range(len(list)-1,-1,-1):
-        print(list[i],end=" ")
+        print(list[i],end="")
+print(f"Chuyển đổi từ hệ {a} sang hệ {he} là :",end=" ")
 if he==2:
     he_2(a)
 elif he==8:
