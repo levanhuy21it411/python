@@ -7,7 +7,7 @@ def he_2(a):
         list.append(du)
         a=a//2
     for i in range(len(list)-1,-1,-1):
-        print(list[i],end=" ")
+        print(list[i],end="")
 def he_8(a):
     list=[]
     while a>0:
@@ -15,7 +15,7 @@ def he_8(a):
         list.append(du)
         a=a//8
     for i in range(len(list)-1,-1,-1):
-        print(list[i],end=" ")
+        print(list[i],end="")
 def he_16(a):
     list=[]
     while a>0:
@@ -38,7 +38,7 @@ def he_16(a):
         a=a//16
     for i in range(len(list)-1,-1,-1):
         print(list[i],end="")
-print(f"Chuyển đổi từ hệ {a} sang hệ {he} là :",end=" ")
+print(f"Chuyển đổi từ hệ thập phân sang hệ {he} là :",end=" ")
 if he==2:
     he_2(a)
 elif he==8:
